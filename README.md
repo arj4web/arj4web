@@ -8,9 +8,6 @@ I am interested in learning about computers in general. Right now, I haven't fig
 
 I am lucky to have graduated with the best bunch of peers and friends from IIT Kharagpur. A large bunch of my personal traits belong to that ecosystem.  
 
-When I can't say something out loud, I (used to) write about them here (hopefully, will resume soon).\
-[![Static Badge](https://img.shields.io/badge/Blogs-red?label=Aditya%20Unfiltered&link=https%3A%2F%2Fadi4blogs.netlify.app)](https://adi4blogs.netlify.app)
-<br /><br />
 
 **Contact me**\
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adi4web)
