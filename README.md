@@ -12,5 +12,3 @@ I am lucky to have graduated with the best bunch of peers and friends from IIT K
 **Contact me**\
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adi4web)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:adisofficial.2001@gmail.com)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fadi4web)](https://x.com/adi4web)
-
