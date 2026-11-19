@@ -1,12 +1,12 @@
 <img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="160" height="181" />
 
-## Hello Visitors, Welcome to Aditya's Profile &nbsp;
+## Hello Visitors, &nbsp;
 
-I am Aditya Ranjan Jha (aka ARJ). I am a second-year doctoral student pursuing research in computer science and engineering. 
+I am Aditya Ranjan Jha (aka ARJ), a third-year doctoral student pursuing research in computer science and engineering.
 
-I am interested in learning about computers in general. Right now, I haven't figured out what I like particularly, so I am skimming my feet in all rivers.
+Recently, I have developed an interest in the design of Hardware Description Languages for safer hardware design. You can find our work [here](https://github.com/AnvilHDL/).
 
-I am lucky to have graduated with the best bunch of peers and friends from IIT Kharagpur. A large bunch of my personal traits belong to that ecosystem.  
+I was lucky to have graduated from IIT Kharagpur (2024) with the best bunch of peers and friends. Much of who I am today has been shaped by that ecosystem (so you know who to blame).
 
 
 **Contact me**\
